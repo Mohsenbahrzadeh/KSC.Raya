@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="KSC.Raya.Api/KSC.Raya.Api.csproj" Id="3dba5ed7-2ff8-4edb-912e-d21bd5342b6a" />
+  <Project Path="KSC.Raya.Shared/KSC.Raya.Shared.csproj" Id="d37facfd-debc-49a0-928a-366ddd7fe6a9" />
+  <Project Path="KSC.Raya.Web/KSC.Raya.Web.csproj" Id="d810f2b3-48ac-459b-a88e-3b88a5fca96c" />
+</Solution>
